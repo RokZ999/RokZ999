@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Welcome to my GitHub <br>Feel free to explore my repositories</p>
+<p align="center">Welcome to my GitHub <br>Feel free to explore it</p>
 
 ###
 
